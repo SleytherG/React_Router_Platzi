@@ -5,6 +5,9 @@ import { BlogPage } from "./components/BlogPage";
 import { HomePage } from "./components/HomePage";
 import { ProfilePage } from "./components/ProfilePage";
 
+// /#/ => con HashRouter -- /#/blog
+// / => con BrowserRouter -- /blog
+
 function App() {
  return (
   <>
